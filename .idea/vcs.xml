@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ecommerce-quasar-firebase" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ecommerce-quasar-firebase/https:/github.com/funnymada/backofficeJAC.git" vcs="Git" />
   </component>
